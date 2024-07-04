@@ -4,3 +4,6 @@ En primer lugar, necesitamos actualizar el archivo application.properties para c
 
 # Descripción de la estructura de la tabla 'hotel' en la base de datos MySQL
 ![image](https://github.com/iamjackson7/AplicacionesDistribuidas/assets/99736392/1393e006-e5aa-44f4-af72-22bd9b6471c7)
+
+# Postman
+
